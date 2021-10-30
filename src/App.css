@@ -1,0 +1,49 @@
+.animalImage{
+
+}
+.answerWrapper{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  font-size: 20px;
+  min-width: 150px;
+  min-height: 70px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+}
+
+.imageWrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.question{
+  padding-left: 100px;
+
+}
+
+.pageWrapper{
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 5px;
+  background-color: rgba(213, 186, 227);
+}
+
+h1{
+  font-size: 50px;
+  display: flex;
+  flex: auto;
+  justify-content: center;
+  padding-bottom: 30px;
+  padding-top: 40px;
+}
+
+h2{
+  font-size: 25px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-top: 40px;
+}
