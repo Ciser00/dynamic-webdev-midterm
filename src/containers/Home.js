@@ -22,16 +22,19 @@ function Home(){
           console.warn(error);
         });
   }, []);
-
   return(
-
-    <main>
+  <main>
     <div className="pageWrapper">
-    <h1>Take this quiz for an Animal Picture </h1>
+      <h1>Take this quiz for an Animal Picture </h1>
+      <h2>Every answer correct will change this image</h2>
+      <Image
+        numCorrect={numCorrect}
+      />
       <div className="questionAnswerWrapper">
         {quizData && quizData.map((question, i) =>
           <Question
-            setNumCorrect={numCorrect}
+            setNumCorrect={setNumCorrect}
+            numCorrect={numCorrect}
             question={quizData[i].question}
             answer={quizData[i].correct_answer}
             wrong={quizData[i].incorrect_answers}
@@ -39,13 +42,8 @@ function Home(){
           />
         )}
       </div>
-      <Image
-        setNumCorrect={numCorrect}
-      />
-      </div>
-
-    </main>
-
+    </div>
+  </main>
   )
 }
 export default Home;

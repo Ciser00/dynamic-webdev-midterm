@@ -3,15 +3,11 @@ import axios from "axios";
 import quizData from "../containers/Home";
 import Data from "../components/Data.json";
 
-function Quiz({setNumCorrect}) {     //why not work?
+function Quiz({numCorrect}) {     //why not work?
   return(
-
     <div className="imageWrapper">
-      <img className="animalImage" src={Data.AnimalPics[setNumCorrect.length][1]} alt={Data.AnimalPics[setNumCorrect.length][0]}/>
-
+      <img className="animalImage" src={Data[numCorrect.length].img} alt={Data[numCorrect.length].alt}/>  
     </div>
-
-
   )
 }
 

@@ -1,15 +1,62 @@
-{   "AnimalPics": [
-      ["Frog on a small branch with its mouth open", "https://media.istockphoto.com/photos/redeyed-tree-frog-smile-picture-id1049028724?k=20&m=1049028724&s=612x612&w=0&h=Ki2DdIFf9KGoFYaP4oVY6J0VxXB2bA7HlcJnkrPQJNQ="],
-      ["Small puppy in a person's lap", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-131.jpg"],
-      ["Albino lion yawning ", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-2.jpg"],
-      ["Alpaca with spit coming out of its mouth", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-3.jpg"],
-      ["Two horses on their back legs moving twoards each other", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-12.jpg"],
-      ["A bunch of colorful birds on a thing branch", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-111.jpg"],
-      ["A salamander holding onto another one that has fallen off of a branch", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-10.jpg"],
-      ["Two birds are fighting and one has it's feet wrapped around the other's mouth", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-9.jpg"],
-      ["An iguana with it's eyes closed and a butterfly on its nose","https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-8.jpg"],
-      ["Two babby bears walking on a gravel road", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-61.jpg"],
-      ["A squirle covering itself with its tail while it is snowing","https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-5.jpg"],
-      ["A very fluffy cat on a white blanket", "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-4.jpg"]
-    ]
+[
+  {
+      "alt" : "Frog on a small branch with its mouth open",
+      "img" : "https://media.istockphoto.com/photos/redeyed-tree-frog-smile-picture-id1049028724?k=20&m=1049028724&s=612x612&w=0&h=Ki2DdIFf9KGoFYaP4oVY6J0VxXB2bA7HlcJnkrPQJNQ="
+  },
+
+  {
+        "alt" : "Small puppy in a person's lap",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-131.jpg"
+  },
+
+  {
+        "alt" : "Albino lion yawning ",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-2.jpg"
+  },
+
+  {
+        "alt" :"Alpaca with spit coming out of its mouth",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-3.jpg"
+  },
+
+  {
+        "alt" : "Two horses on their back legs jumping at each other",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-12.jpg"
+  },
+
+  {
+        "alt" : "A bunch of colorful birds on a thing branch",
+        "img" :  "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-111.jpg"
+  },
+
+  {
+        "alt" : "A salamander holding onto another one that has fallen off of a branch",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-10.jpg"
+  },
+
+  {
+        "alt" : "Two birds are fighting and one has it's feet wrapped around the other's mouth",
+        "img" :"https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-9.jpg"
+  },
+
+  {
+        "alt" : "An iguana with it's eyes closed and a butterfly on its nose",
+        "img" :"https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-8.jpg"
+  },
+
+  {
+        "alt" : "Two baby bears walking on a gravel road",
+        "img" :"https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-61.jpg"
+  },
+
+  {
+        "alt" : "A squirle covering itself with its tail while it is snowing",
+        "img" : "https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-5.jpg"
+  },
+
+  {
+        "alt" : "A very fluffy cat on a white blanket",
+        "img" :"https://tailandfur.com/wp-content/uploads/2015/10/40-Pictures-of-Funny-Cool-Animals-4.jpg"
   }
+
+]
